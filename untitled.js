@@ -21,6 +21,5 @@ function moveZero (arr){
 
 alert (moveZero (arr));
 
-alert('Goops');
-
+alert('Goops+');
 
