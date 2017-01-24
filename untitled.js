@@ -1,3 +1,6 @@
+alert ('one');
+
+
 var arr = [0, -3, 0, 0, 0, 6, 5, 3, 7, 0, 0,];
 
 function moveZero (arr){
@@ -18,3 +21,5 @@ function moveZero (arr){
 alert (moveZero (arr));
 
 alert('Goops');
+
+
